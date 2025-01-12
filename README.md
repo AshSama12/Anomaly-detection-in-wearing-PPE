@@ -1,6 +1,6 @@
 # Anomaly-detection-in-wearing-PPE
 This is my latest ongoing research project
-
+## computer vision & deep learning
 
 •	Aims: To create an effective anomaly detection system that identifies whether construction workers are wearing the necessary PPE (helmet, vest, and boots) to ensure their safety. 
  
