@@ -7,5 +7,6 @@ This is my latest ongoing research project
 •	Objectives: 
 	To design an accurate deep learning model for detecting anomalies in the wearing of personal         
   protective equipment (helmet, vest, boots) by construction workers.
+  
   Achieve high precision and recall. 
   Ensure system resilience to lightening changes and weather changes. 
