@@ -11,4 +11,4 @@ This is my latest ongoing research project
 - Achieve high precision and recall. 
   Ensure system resilience to lightening changes and weather changes.
 
-  *make 2 models. one for human detection and another one for PPE detection**
+  *make 2 models. one for human detection and another one for PPE detection*
